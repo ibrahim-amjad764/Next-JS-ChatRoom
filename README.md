@@ -168,7 +168,7 @@ my-apps/
 | `npm run migration:revert` | Revert last migration |
 | `npm run schema:sync` | Sync database schema |
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Rooms
 - `GET /api/rooms` - Get all rooms
